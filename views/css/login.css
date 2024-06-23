@@ -1,0 +1,25 @@
+*{
+    background-color: #FFf;
+}
+
+.signup-content {
+    display: flex;
+    width: 93vw;
+    /* height: 70vh; */
+    align-items: center;
+    justify-content: center;
+    margin: 50px auto;
+    background-color: aqua;
+}
+
+.left-content {
+    flex: 3;
+    background-color: blue;
+    height: 70vh;
+}
+
+.right-content {
+    background-color: chartreuse;
+    flex: 2;
+    height: 70vh;
+}
